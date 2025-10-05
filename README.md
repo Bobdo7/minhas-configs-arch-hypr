@@ -1,0 +1,1 @@
+# minhas-configs-arch-hypr
